@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "description": "Comfortable cotton t-shirt in white.",
+    "price": 19.99,
+    "imageUrl": "/images/White T-shirt.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Blue Jeans",
+    "description": "Regular fit blue jeans.",
+    "price": 49.99,
+    "imageUrl": "/images/Blue Jeans.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bracelet",
+    "description": "Gold Bracelet",
+    "price": 69.99,
+    "imageUrl": "/images/Gold Bracelet.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Necklace",
+    "description": "Gold Necklace",
+    "price": 100.99,
+    "imageUrl": "/images/Necklace.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Analog Watch",
+    "description": "Gold Analog watch",
+    "price": 299.99,
+    "imageUrl": "/images/Analog Watch.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Boots",
+    "description": "Suede Brown ankle heel boots",
+    "price": 199.99,
+    "imageUrl": "/images/Boots.jpg"
+  }
+]
